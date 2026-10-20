@@ -45,3 +45,5 @@ Both objects are `Manager` objects. The first variable has type `Employee`, so t
 | `virtual` | Marks `Employee.PrintRole` so a derived class can replace it and the call can be resolved at runtime. |
 | `override` | Replaces `PrintRole` in `Manager` and `Developer`. The call follows the object type. |
 | `new` | Hides `PrintDepartment` in `Manager` and `Developer`. The call follows the reference type. |
+
+Note: AI tools were used to assist with the preparation of the technical documentation.
