@@ -26,6 +26,7 @@ class Book < LibraryItem
     puts "Book"
     super
     puts "Genre: #{genre}"
+    puts "--------------------------------"
   end
 end
 
@@ -41,6 +42,7 @@ class DVD < LibraryItem
     puts "DVD"
     super
     puts "Director: #{director}"
+    puts "--------------------------------"
   end
 end
 
@@ -56,6 +58,7 @@ class CD < LibraryItem
     puts "CD"
     super
     puts "Artist: #{artist}"
+    puts "--------------------------------"
   end
 end
 
