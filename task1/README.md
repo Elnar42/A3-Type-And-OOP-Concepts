@@ -22,9 +22,5 @@ Each function writes only the first and last elements. The times compare the cos
 
 ## References
 
-- Storage durations in C (automatic, static, allocated): https://en.cppreference.com/c/language/storage_duration
-- Static storage duration: https://en.cppreference.com/c/language/static_storage_duration
-- `malloc`: https://en.cppreference.com/c/memory/malloc
-- `clock`: https://en.cppreference.com/c/chrono/clock
 - Why heap allocation costs more than stack allocation: https://stackoverflow.com/questions/2264969/why-is-memory-allocation-on-heap-much-slower-than-on-stack
 - Cost of `malloc` and `free`: https://johnnysswlab.com/the-price-of-dynamic-memory-allocation/
