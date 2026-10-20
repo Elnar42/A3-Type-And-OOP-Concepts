@@ -1,4 +1,4 @@
-#define ARRAY_SIZE 1000000
+#define ARRAY_SIZE 100000
 
 void declare_static_array(void) {
     static int large_array[ARRAY_SIZE];
